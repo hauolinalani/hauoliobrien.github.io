@@ -17,8 +17,8 @@
     "profiles": [
       { "network": "github", "username": "hauolinalani", "url": "http://github.com/hauolinalani" },
       { "network": "linkedin", "username": "hauolinalaniobrien", "url": "http://linkedin.com/in/hauolinalaniobrien" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "twitter", "username": "hauolinalani", "url": "http://twitter.com/hauolinalani" },
+      { "network": "email", "username": "hobrien", "url": "hobrien@hawaii.edu" }
     ]
   },
   "interests": [
@@ -50,15 +50,15 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Hawaii Space Grant Consortium",
+      "position": "Software Engineer Student Intern",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed code in C++ on an Arduino Nano Microcontroller to allow an autonomous rover to traverse a terrain with predetermined range and coordinates.",
+        "Streamlined our rover execution by designing, implementing and testing the code base, which provided the metrics for our automation platform."
       ]
     },
     {
