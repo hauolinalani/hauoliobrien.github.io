@@ -6,15 +6,14 @@
     "email": "hobrien@hawaii.edu",
     "phone": "808-724-4230",
     "website": "https://hauolinalani.github.io",
-    "summary": "Aloha mai! I'm Hau'oli, a Hawaiian-American girl from O'ahu, Hawai'i. I'm part of the University of Hawai'is class of 2026 and I am currently pursuing my Bachelor of Science in Computer Science. I love to learn anything related to Computer Science alongside anything that perpetuates our tech world as we know it."
+    "summary": "Aloha mai! I'm Hau'oli, a Hawaiian-American girl from O'ahu, Hawai'i. I'm part of the University of Hawai'is class of 2026 and I am currently pursuing my Bachelor of Science in Computer Science. I love to learn anything related to Computer Science alongside anything that perpetuates our tech world as we know it.",
     "location": {
       "address": "",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
-
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    },
     "profiles": [
       { "network": "github", "username": "hauolinalani", "url": "http://github.com/hauolinalani" },
       { "network": "linkedin", "username": "hauolinalaniobrien", "url": "http://linkedin.com/in/hauolinalaniobrien" },
@@ -32,11 +31,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "C++", "Java", "Javascript", "Django", "Bootstrap5" ]
+      "keywords": ["Python", "C++", "Java", "Javascript", "Django", "Bootstrap5"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Jupyter Notebooks", "Git/GitHub", "Atom", "Visual Studio Code" ]
+      "keywords": ["MacOS", "Jupyter Notebooks", "Git/GitHub", "Atom", "Visual Studio Code"]
     }
   ],
   "education": [
@@ -46,8 +45,7 @@
       "studyType": "B.S.",
       "startDate": "08/2022",
       "endDate": "Present",
-      "courses":  [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -114,7 +112,7 @@
       "title": "First place",
       "date": "2015",
       "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "summary": "My team won first place in 2015. See my portfolio site for more details."
     }
   ],
   "references": [
@@ -123,3 +121,4 @@
     }
   ]
 }
+
