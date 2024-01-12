@@ -1,45 +1,48 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Hau'olinalani O'Brien",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/hauolinalani.png",
+    "email": "hobrien@hawaii.edu",
+    "phone": "808-724-4230",
+    "website": "https://hauolinalani.github.io",
+    "summary": "Aloha mai! I'm Hau'oli, a Hawaiian-American girl from O'ahu, Hawai'i. I'm part of the University of Hawai'is class of 2026 and I am currently pursuing my Bachelor of Science in Computer Science.
+    I love to learn anything related to Computer Science alongside anything that perpetuates our tech world as we know it."
+
+ I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "hauolinalani", "url": "http://github.com/hauolinalani" },
+      { "network": "linkedin", "username": "hauolinalaniobrien", "url": "http://linkedin.com/in/hauolinalaniobrien" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Natural Language Processing" },
+    { "name": "Digital Forensics" },
+    { "name": "Computational Linguistics" },
+    { "name": "Quantum Cryptography" },
+    { "name": "Computational Sustainability" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "C++", "Java", "Javascript", "Django", "Bootstrap5" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Jupyter Notebooks", "Git/GitHub", "Atom", "Visual Studio Code" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "08/2022",
       "endDate": "Present",
-      "courses": [
+      "courses":  [
       ]
     }
   ],
