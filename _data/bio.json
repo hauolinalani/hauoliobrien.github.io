@@ -63,28 +63,28 @@
     },
     {
       "company": "Kahalu'u Elementary School",
-      "position": "Substitute Teacher",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "position": "Part Time Teacher",
+      "startDate": "2023-08-12",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Create lessons rooted in STEM and Computer Science to present to the students.",
+        "The goal of supplemental teaching is to instill and prepetuate Computer Science and Technology to students K-12."
+    
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Ko'olaupoko Civics Club",
+      "website": "https://www.koolaupoko-hcc.org/",
+      "position": "Volunteer",
+      "startDate": "2021",
       "endDate": "Present",
       "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Prepetuation, maintainance, and cultivation of Native Hawaiian culture through volunteerism.",
+        "Preserve Native Hawaiian Heritage through cultural site maintainance, hosting activies and classes to learn different traditions from each other, and establish Native plant habitats."
       ]
     },
     {
