@@ -9,8 +9,6 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 JavaScript has always been a language that I’ve struggled to completely grasp. 
 Between the ability to change the type of a variable dynamically, and the vast amount of frameworks,
 it keeps my brain always hungry to learn more, and to want to master this language in every aspect. 
@@ -42,3 +40,7 @@ This concept of learning prepares us, as developers for real-world coding interv
 and a pre determined amount of time, and in front of future employers, at that. The idea is that we learn not how to master the language itself,
 but to know enough that we can solve problems given to us in a short amount of time. I don’t particularly fancy this style of learning, 
 but I know it is necessary to be a great developer who can adjust to deadlines and embrace the stress while still producing quality work. 
+
+Who knew my little pink dropdown menu would bring me here! I wouldn’t have ever imagined such a tiny object would push me
+head first into the world of Web Development and more specifically, JavaScript. 
+It has been nothing short of an adventure and I’m looking forward to mastering it through my educational endeavors.
