@@ -7,6 +7,7 @@ date: 2024-01-16
 published: true
 labels:
   - Software Engineering
+  - JavaScript
 ---
 
 JavaScript has always been a language that I’ve struggled to completely grasp. 
