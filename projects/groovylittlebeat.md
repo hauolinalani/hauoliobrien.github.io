@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/spotify.jpg
+image: img/spotify.png
 title: "Groovy Little Beat"
 date: 2023
 published: true
