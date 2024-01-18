@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/spotify.jpg
 title: "Groovy Little Beat"
 date: 2023
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "a Full-Stack Web Application that mimicks the popular music streaming site, 'Spotify'"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/groovy-header.png">
 
 Immerse yourself in the ultimate music experience with Groovy Little Beat, a web application that streamlines Spotify’s design and makes listening to music, a lot less boring, and a little more Groovy.
 
