@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/makeup.png
 title: "Enchantée"
 date: 2023
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "An online beauty hub that that closely resembles Sephora's sleek design."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/Enchantée.png">
 
 Enchantée, French for 'Enchanted' takes you through the world of beauty, both inner and outer. The application 
 follows in the footsteps of leading makeup retailer 'Sephora' allowing users to browse, click, purchase, and "heart" 
