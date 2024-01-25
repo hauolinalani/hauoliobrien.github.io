@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "The Art of Asking Smart Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-24
 published: true
