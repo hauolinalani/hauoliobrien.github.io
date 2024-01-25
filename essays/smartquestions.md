@@ -7,24 +7,24 @@ date: 2024-01-24
 published: true
 labels:
   - StackOverflow
-  -Python/JavaScript
+  - Python/JavaScript
 ---
 
-The Art of Asking Smart Questions
+# The Art of Asking Smart Questions
 
-In the ever changing and dynamic world of Software Engineering, one thing remains constant: 
+In the ever-changing and dynamic world of Software Engineering, one thing remains constant: 
 Effective communication is crucial to successful collaboration within software engineering.
 One way this manifests is in the art of asking smart questions. You may have heard of the term,
-“there is no such thing as a dumb question,” which may be true, but there are ways to better express
+“There is no such thing as a dumb question,” which may be true, but there are ways to better express
 questions using tools you already have at your advantage. Giving more information, being precise and
-informative about your problem, checking other resources such as Google, and describing your problems symptoms and 
-not your own, are all some to name by Eric Raymond, in his guideline article about asking questions in a “smart” way.
+informative about your problem, checking other resources such as Google, and describing your problem's symptoms and 
+not your own, are all some techniques mentioned by Eric Raymond in his guideline article about asking questions in a “smart” way.
 
-To set the record straight, the term “smart” isn’t meant in a literal way, you don’t need to be a 
+To set the record straight, the term “smart” isn’t meant in a literal way; you don’t need to be a 
 rocket scientist with multiple PhD’s to be qualified to ask a smart question. Asking a smart question 
 comes from the techniques and information you are supplying within your question, how you are presenting 
 your question, and if your question is applicable and solvable with the information you’ve given. 
-They are not merely a formality, but a pathway to efficient problem-solving, knowledge-sharing, and contributing 
+They are not merely a formality but a pathway to efficient problem-solving, knowledge-sharing, and contributing 
 to a positive community atmosphere. Software developers face complex challenges, and the ability to articulate 
 questions thoughtfully can significantly impact the quality of assistance they receive.
 
@@ -51,7 +51,6 @@ helping you, knowing that they now have an efficient amount of background inform
 
 [StackOverflow - How do I not show empty arrays?](https://stackoverflow.com/questions/77876539/how-do-i-not-show-empty-arrays)
 
-
 Now, let’s look at a smart question posed with some of Raymond’s proper techniques
 and presented with ample information to be solved. The question discusses a common
 issue in Python related to default mutable arguments. Within the question, the author
@@ -72,8 +71,6 @@ problems. Had he not, he would’ve had a more difficult time trying to obtain h
 
 [StackOverflow - Least Astonishment and the Mutable Default Argument](https://stackoverflow.com/questions/1132941/least-astonishment-and-the-mutable-default-argument)
 
-
-
 While the first example of a question lacking in Raymond’s smart techniques does not have any responses,
 I found that the responses in the second example were very helpful, clear, supportive, and actually answered 
 the user’s questions in various ways. The response provides a thorough explanation of why default parameters 
@@ -87,18 +84,11 @@ The responder acknowledges the possibility of special-casing using an empty list
 such as causing more astonishment and backward incompatibility. This consideration demonstrates a thoughtful analysis 
 of potential solutions and their implications. 
 
-
-
 While comparing and contrasting the two very different questions posed on StackOverflow,
 seeing the vast differences in responses between the two allowed me to understand just how 
 significant and important it is to provide your audience with sufficient and necessary information that could
 lead to them helping you and providing clear answers to your questions, that actually help you to gain an understanding 
 of how to fix your issue and understand where you went wrong. By following the smart techniques and elevating your question, 
 you avoid people ignoring you or being hesitant to answer because they don’t want to keep following up with more questions
-that they need to solve your problem and help you because then, it turns into more of a chore than help. By giving them the 
-right tools and information about your issue, they are more likely to be inclined and interested in helping you, and helping 
-to solve your problem because you were clear, concise, and gave a detailed explanation as to how you arrived at your problem,
-how you’ve started to fix it, your problems symptoms, and resources you have that may help them to help you. Seeing how people 
-were much more inclined to helping the author who provided efficient information against the author who treated potential responders
-as an AI chat box showed me just how important it is to use smart techniques when you ask questions and more importantly, 
-simply making sure your questions are clear, necessary, haven’t already been answered on different platforms.
+that they need to solve
+
