@@ -44,4 +44,4 @@ but I know it is necessary to be a great developer who can adjust to deadlines a
 
 Who knew my little pink dropdown menu would bring me here! I wouldn’t have ever imagined such a tiny object would push me
 head first into the world of Web Development and more specifically, JavaScript. 
-It has been nothing short of an adventure and I’m looking forward to mastering it through my educational endeavors.
+It has been nothing short of an adventure and I’m looking forward to mastering it through my educational endeavors. I'm so excited to learn more and cannot wait to report back soon with my findings!
