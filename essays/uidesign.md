@@ -11,8 +11,6 @@ labels:
   - HTML & CSS
 ---
 
-## Inspect Element?
-
 I remember being in middle school and discovering “inspect element” on the drop down menu when right-clicking on a web page. I told all my friends about it and showed them how cool it was that you could temporarily change something on the screen– colors, fonts, numbers, names– as long as you could find the element you wanted to change, you could fiddle with it and experiment how you could change something on a page easily. I hadn’t known it at the time, but this was my first time dabbling in “web development” and I had no idea just how much there was involved in building, designing, and maintaining websites. 
 
 These last few weeks have been an amazing learning experience for me and have actually pushed me to consider taking the “front end” more seriously. In all honesty, I didn’t quite grasp how people made careers out of web development when there are pre-made website creators and templates that design these things for you. Needless to say, I really enjoyed learning about the complexities of web design and development and how to use JavaScript, HTML and CSS in conjunction with each other to create intricate layouts, designs, and user interfaces while also providing functionality and a way for these 3 to interact with each other. 
