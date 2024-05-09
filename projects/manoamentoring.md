@@ -27,4 +27,4 @@ Our application, Manoa Mentoring, aims to bring together students and mentors. S
 
 <hr>
 
-Source: <a href="https://manoa-mentoring.github.io/"><i class="large github icon "></i>hauolinalani/spotify-clone</a>
+Source: <a href="https://manoa-mentoring.github.io/"><i class="large github icon "></i>manoam-mentoring/manoamentoring</a>
