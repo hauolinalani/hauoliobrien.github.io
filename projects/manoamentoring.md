@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/spotify.png
+image: img/ss10.png
 title: "Manoa Mentoring"
 date: 2024
 published: true
