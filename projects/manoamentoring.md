@@ -13,7 +13,7 @@ labels:
 summary: "a Full-Stack Web Application that allows UH Manoa students to connect with mentors in effort to study, learn, and build friendship.'"
 ---
 
-<img class="img-fluid" src="../img/groovy-header.png">
+<img class="img-fluid" src="../img/ss3.png">
 
 Students at UH Manoa may encounter difficulties while studying, doing homework, or with their overall academic performance. There are a number of reasons why a student may be struggling, such as personal challenges or rigorous coursework, but one common issue is not having the proper resources to seek help.
 
